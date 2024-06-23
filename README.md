@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="./banner.gif">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1phcv2HwZyWqzGEgIKibFOA7ejx5Jm8Ja/view">
 
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Exploring the Depths of Code and Creativity</h3>
