@@ -4,6 +4,7 @@
 <h3 align="center">Exploring the Depths of Code and Creativity</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E1emFyM2N1NmJjcGltbXBwMWRleXh3cHl0MHNtd2Fwc2x5MXN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.webp">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasaurabh11&label=Profile%20views&color=0e75b6&style=flat" alt="sasaurabh11" /> </p>
 
 
 - 🔭 I’m currently working on **Next.js And DSA**
