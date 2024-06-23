@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1phcv2HwZyWqzGEgIKibFOA7ejx5Jm8Ja/view">
+<img align="right" alt="Coding" width="400" src="https://console.cloudinary.com/pm/c-ad98990fa5d3e4e00440b09a49143f/media-explorer?assetId=84c624324e3e7066542a318f4d134355">
 
 <h1 align="center">Hi 👋, I'm Saurabh</h1>
 <h3 align="center">Exploring the Depths of Code and Creativity</h3>
