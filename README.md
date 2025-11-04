@@ -7,15 +7,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sasaurabh11&label=Profile%20views&color=0e75b6&style=flat" alt="sasaurabh11" /> </p>
 
 
-- 🔭 I’m currently working on **Next.js And DSA**
+- 🔭 I’m currently working on **Software Developement and AI**
 
-- 🌱 I’m currently learning **Next.js And MERN**
+- 🌱 I’m currently learning **MERN, GenAI**
 
-- 💬 Ask me about **MERN, DSA**
+- 💬 Ask me about **Development, DSA**
 
 - 📫 How to reach me **sesaurabh8052@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iQEgbb9hqxJ6DqK5IwTS0rq9ziWS_WCx/view](https://drive.google.com/file/d/1iQEgbb9hqxJ6DqK5IwTS0rq9ziWS_WCx/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1iQEgbb9hqxJ6DqK5IwTS0rq9ziWS_WCx/view](https://drive.google.com/file/d/1kHWIb1dzYn3m7kxz0wjck5srTQVZw918/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
