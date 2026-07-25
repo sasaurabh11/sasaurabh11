@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Competitive programming ratings">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Competitive programming ratings">
   <title>Competitive programming ratings</title>
 
   <defs>
@@ -6,14 +6,19 @@
       <stop offset="0%" stop-color="#FF7A18"/>
       <stop offset="100%" stop-color="#FFC94A"/>
     </linearGradient>
-    <pattern id="grid2" width="30" height="30" patternUnits="userSpaceOnUse">
-      <path d="M30 0H0V30" fill="none" stroke="#221B15" stroke-width="1"/>
+    <pattern id="gridR" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#2A211A" stroke-width="1"/>
     </pattern>
+    <radialGradient id="bloomR" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF7A18" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#FF7A18" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frameR"><rect width="1200" height="300" rx="16"/></clipPath>
   </defs>
 
   <style>
     .mono { font-family: "JetBrains Mono","IBM Plex Mono","SFMono-Regular",Consolas,monospace; }
-    .amber{ fill:#FFB000; } .ember{ fill:#FF7A18; } .bone{ fill:#F0E2CC; } .dim{ fill:#8A7A66; }
+    .amber { fill:#FFB000; } .ember { fill:#FF7A18; } .bone { fill:#F0E2CC; } .dim { fill:#8A7A66; }
     @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
     @keyframes fade { from { opacity:0; } to { opacity:1; } }
     @keyframes tick { 0%,100% { opacity:.9; } 50% { opacity:.35; } }
@@ -24,45 +29,49 @@
     @media (prefers-reduced-motion: reduce){ .bar,.f1,.f2,.f3,.head{animation:none} .bar{transform:none} }
   </style>
 
-  <rect width="900" height="300" rx="14" fill="#0F0D0B"/>
-  <rect width="900" height="300" rx="14" fill="url(#grid2)" opacity=".6"/>
-  <rect x="1" y="1" width="898" height="298" rx="14" fill="none" stroke="#2A211A" stroke-width="2"/>
+  <g clip-path="url(#frameR)">
+    <rect width="1200" height="300" fill="#0F0D0B"/>
+    <rect width="1200" height="300" fill="url(#gridR)" opacity="0.55"/>
+    <ellipse cx="1000" cy="150" rx="380" ry="220" fill="url(#bloomR)"/>
+    <rect width="1200" height="300" fill="none" stroke="#2A211A" stroke-width="2" rx="16"/>
+    <rect x="0" y="0" width="4" height="300" class="ember" opacity="0.8"/>
 
-  <text x="36" y="44" class="mono" font-size="13">
-    <tspan class="dim">~$ </tspan><tspan class="bone">./ranks --all</tspan><tspan class="ember head"> ▮</tspan>
-  </text>
-  <line x1="36" y1="62" x2="864" y2="62" stroke="#2A211A" stroke-width="1.5"/>
+    <text x="40" y="46" class="mono" font-size="15">
+      <tspan class="dim">~$ </tspan><tspan class="bone">./ranks --all</tspan><tspan class="ember head"> ▮</tspan>
+    </text>
+    <line x1="40" y1="64" x2="1160" y2="64" stroke="#2A211A" stroke-width="1.5"/>
 
-  <!-- LeetCode 2160 / 2500 = 86% of 470 = 404 -->
-  <g>
-    <text x="36" y="108" class="mono bone" font-size="14" font-weight="600">LeetCode</text>
-    <text x="36" y="126" class="mono dim" font-size="10">Guardian · top 1%</text>
-    <text x="196" y="118" class="mono amber" font-size="27" font-weight="700">2160</text>
-    <rect x="316" y="104" width="470" height="12" rx="6" fill="#1B1611"/>
-    <rect class="bar b1" x="316" y="104" width="404" height="12" rx="6" fill="url(#barG)"/>
-    <text x="800" y="114" class="mono f1 dim" font-size="10.5">8000 / 789k</text>
-    <text x="316" y="136" class="mono f1 dim" font-size="10">1400+ problems</text>
-  </g>
+    <!-- LeetCode 2160/2500 * 640 = 553 -->
+    <g>
+      <text x="40" y="112" class="mono bone" font-size="14" font-weight="600">LeetCode</text>
+      <text x="40" y="130" class="mono dim" font-size="10">Guardian · top 1%</text>
+      <text x="230" y="122" class="mono amber" font-size="28" font-weight="700">2160</text>
+      <rect x="380" y="108" width="640" height="12" rx="6" fill="#1B1611"/>
+      <rect class="bar b1" x="380" y="108" width="553" height="12" rx="6" fill="url(#barG)"/>
+      <text x="1040" y="118" class="mono f1 dim" font-size="11">8000 / 789k</text>
+      <text x="380" y="140" class="mono f1 dim" font-size="10">1400+ problems solved</text>
+    </g>
 
-  <!-- CodeChef 1804 -> 72% of 470 = 338 -->
-  <g>
-    <text x="36" y="184" class="mono bone" font-size="14" font-weight="600">CodeChef</text>
-    <text x="36" y="202" class="mono dim" font-size="10">4-star</text>
-    <text x="196" y="194" class="mono amber" font-size="27" font-weight="700">1804</text>
-    <rect x="316" y="180" width="470" height="12" rx="6" fill="#1B1611"/>
-    <rect class="bar b2" x="316" y="180" width="338" height="12" rx="6" fill="url(#barG)"/>
-    <text x="800" y="190" class="mono f2 dim" font-size="10.5">4938 / 530k</text>
-    <text x="316" y="212" class="mono f2 dim" font-size="10">peak contest rank 80 / 5000+</text>
-  </g>
+    <!-- CodeChef 1804 -> 462 -->
+    <g>
+      <text x="40" y="192" class="mono bone" font-size="14" font-weight="600">CodeChef</text>
+      <text x="40" y="210" class="mono dim" font-size="10">4-star</text>
+      <text x="230" y="202" class="mono amber" font-size="28" font-weight="700">1804</text>
+      <rect x="380" y="188" width="640" height="12" rx="6" fill="#1B1611"/>
+      <rect class="bar b2" x="380" y="188" width="462" height="12" rx="6" fill="url(#barG)"/>
+      <text x="1040" y="198" class="mono f2 dim" font-size="11">4938 / 530k</text>
+      <text x="380" y="220" class="mono f2 dim" font-size="10">best contest rank 80 / 5000+</text>
+    </g>
 
-  <!-- Codeforces 1645 -> 66% of 470 = 310 -->
-  <g>
-    <text x="36" y="260" class="mono bone" font-size="14" font-weight="600">Codeforces</text>
-    <text x="36" y="278" class="mono dim" font-size="10">Expert</text>
-    <text x="196" y="270" class="mono amber" font-size="27" font-weight="700">1645</text>
-    <rect x="316" y="256" width="470" height="12" rx="6" fill="#1B1611"/>
-    <rect class="bar b3" x="316" y="256" width="310" height="12" rx="6" fill="url(#barG)"/>
-    <text x="800" y="266" class="mono f3 dim" font-size="10.5">9772 / 350k</text>
-    <text x="316" y="288" class="mono f3 dim" font-size="10">best round rank 209 / 32000+</text>
+    <!-- Codeforces 1645 -> 421 -->
+    <g>
+      <text x="40" y="272" class="mono bone" font-size="14" font-weight="600">Codeforces</text>
+      <text x="40" y="290" class="mono dim" font-size="10">Expert</text>
+      <text x="230" y="282" class="mono amber" font-size="28" font-weight="700">1645</text>
+      <rect x="380" y="268" width="640" height="12" rx="6" fill="#1B1611"/>
+      <rect class="bar b3" x="380" y="268" width="421" height="12" rx="6" fill="url(#barG)"/>
+      <text x="1040" y="278" class="mono f3 dim" font-size="11">9772 / 350k</text>
+      <text x="380" y="300" class="mono f3 dim" font-size="10">best round rank 209 / 32000+</text>
+    </g>
   </g>
 </svg>
