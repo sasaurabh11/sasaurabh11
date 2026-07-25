@@ -1,36 +1,156 @@
-![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Saurabh</h1>
-<h3 align="center">Exploring the Depths of Code and Creativity</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2E1emFyM2N1NmJjcGltbXBwMWRleXh3cHl0MHNtd2Fwc2x5MXN3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aBOFPRw8E/giphy.webp">
+<!-- ▓▓ signature banner: boot log + live agent mesh ▓▓ -->
+<img src="./assets/banner.svg?v=1" alt="Saurabh Jaiswar — Software Engineer, agentic AI systems" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasaurabh11&label=Profile%20views&color=0e75b6&style=flat" alt="sasaurabh11" /> </p>
+</div>
 
+<br/>
 
-- 🔭 I’m currently working on **Software Developement and AI**
+<table border="0">
+<tr>
+<td width="35%" align="center" valign="top">
 
-- 🌱 I’m currently learning **MERN, GenAI**
+<img src="./assets/card.svg?v=1" alt="Saurabh Jaiswar — profile card" width="320"/>
 
-- 💬 Ask me about **Development, DSA**
+</td>
+<td width="65%" valign="top">
 
-- 📫 How to reach me **sesaurabh8052@gmail.com**
+### `~$ cat about.md`
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iQEgbb9hqxJ6DqK5IwTS0rq9ziWS_WCx/view](https://drive.google.com/file/d/1kHWIb1dzYn3m7kxz0wjck5srTQVZw918/view?usp=sharing)
+I build systems that think a little for themselves - multi-agent pipelines, retrieval layers, and the web apps that put them in front of real users. Currently an **SDE 1 at Zuvees** in Bengaluru, finished my **B.Tech in CSE at IIIT Vadodara**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/11-saurabh-jaiswar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabh jaiswar" height="30" width="40" /></a>
-<a href="https://instagram.com/sasaurabh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sasaurabh11" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sasaurabh11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sasaurabh11" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sasaurabh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sasaurabh11" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sasaurabh11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sasaurabh11" height="30" width="40" /></a>
-</p>
+Before the AI work I spent three years on competitive programming, and it still shapes how I write code: **3500+ problems solved**, LeetCode **Guardian (2160)**, **ICPC Regionalist 2025**. Turns out the habit of finding the tight solution transfers well to production.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Right now** - orchestrating agents with LangGraph, chasing lower p99s, and shipping features to 20000+ users.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasaurabh11&show_icons=true&locale=en&layout=compact" alt="sasaurabh11" /></p>
+`◆` **Featured work**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sasaurabh11&show_icons=true&locale=en" alt="sasaurabh11" /></p>
+| Project | Stack | What it does |
+|:---|:---|:---|
+| **[EngineerBrain](https://github.com/sasaurabh11)** | `LangGraph` `FastAPI` `Qdrant` `RabbitMQ` | 15+ AI agents automating engineering workflows over a 100K-chunk code index |
+| **[SmartGenie AI](https://github.com/sasaurabh11)** | `MERN` `Pinecone` `LangChain` | RAG video summarization + chatbot, 200+ users, ~30s turnaround |
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasaurabh11&" alt="sasaurabh11" /></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img src="./assets/pipeline.svg?v=1" alt="How I build: ingest, parse, embed, index, retrieve, orchestrate, ship" width="100%"/>
+</div>
+
+<br/>
+
+## `~$ git log --author=saurabh --oneline`
+
+| When | Where | Shipped |
+|:---|:---|:---|
+| **2026.06 →** | **Zuvees** · SDE 1 | Occasion-reminder engine across 25+ occasions with personalized email campaigns → **+30% repeat purchases**. Rebuilt the storefront UI and component architecture → **+40% engagement**. Took the mobile app, backend and analytics from zero. |
+| **2025.12 – 2026.05** | **Zuvees** · SDE Intern | Microservices for the gifting platform serving 3000+ monthly users. Async queue processing for unsubscribes → **−40% API latency**. Multi-container Docker setup → **−70% setup time**. |
+| **2025.03 – 2025.08** | **Nervesparks** · SWE Intern | Document-processing platform (React + FastAPI) generating mind maps and 200+ question formats → **+65% retention for 7,000+ learners**. Offline React Native app running Llama.cpp on-device. Flask translation pipeline across **50+ languages**. |
+
+<br/>
+
+## `~$ ls ./stack`
+
+<table border="0">
+<tr><td valign="middle"><b>Languages</b></td><td>
+<img src="https://img.shields.io/badge/Python-12100D?style=flat-square&logo=python&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/C++-12100D?style=flat-square&logo=cplusplus&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/TypeScript-12100D?style=flat-square&logo=typescript&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/JavaScript-12100D?style=flat-square&logo=javascript&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/SQL-12100D?style=flat-square&logo=postgresql&logoColor=FFB000"/>
+</td></tr>
+<tr><td valign="middle"><b>GenAI</b></td><td>
+<img src="https://img.shields.io/badge/LangGraph-12100D?style=flat-square&logo=langchain&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/LangChain-12100D?style=flat-square&logo=langchain&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/RAG-12100D?style=flat-square&logo=databricks&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/MCP-12100D?style=flat-square&logo=anthropic&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Qdrant-12100D?style=flat-square&logo=qdrant&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Pinecone-12100D?style=flat-square&logo=pinecone&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Fine--tuning-12100D?style=flat-square&logo=huggingface&logoColor=FF7A18"/>
+</td></tr>
+<tr><td valign="middle"><b>Web</b></td><td>
+<img src="https://img.shields.io/badge/React-12100D?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Next.js-12100D?style=flat-square&logo=nextdotjs&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Node.js-12100D?style=flat-square&logo=nodedotjs&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Express-12100D?style=flat-square&logo=express&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/FastAPI-12100D?style=flat-square&logo=fastapi&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Flask-12100D?style=flat-square&logo=flask&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/React_Native-12100D?style=flat-square&logo=react&logoColor=FFB000"/>
+</td></tr>
+<tr><td valign="middle"><b>Data &amp; infra</b></td><td>
+<img src="https://img.shields.io/badge/PostgreSQL-12100D?style=flat-square&logo=postgresql&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/MongoDB-12100D?style=flat-square&logo=mongodb&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Redis-12100D?style=flat-square&logo=redis&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/RabbitMQ-12100D?style=flat-square&logo=rabbitmq&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Docker-12100D?style=flat-square&logo=docker&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/AWS-12100D?style=flat-square&logo=amazonwebservices&logoColor=FF7A18"/>
+<img src="https://img.shields.io/badge/Git-12100D?style=flat-square&logo=git&logoColor=FF7A18"/>
+</td></tr>
+</table>
+
+<br/>
+
+## `~$ ./ranks --all`
+
+<div align="center">
+
+<img src="./assets/ranks.svg?v=1" alt="LeetCode 2160 Guardian, CodeChef 1804, Codeforces 1645" width="100%"/>
+
+<br/><br/>
+
+<img src="./assets/trophies.svg?v=1" alt="ICPC Regionalist 2025, Codeforces rank 209, CodeChef rank 80, Meta Hacker Cup rank 1384" width="100%"/>
+
+<br/>
+
+<a href="https://leetcode.com/sasaurabh11"><img src="https://img.shields.io/badge/LeetCode-12100D?style=flat-square&logo=leetcode&logoColor=FFB000"/></a>
+<a href="https://codeforces.com/profile/sasaurabh11"><img src="https://img.shields.io/badge/Codeforces-12100D?style=flat-square&logo=codeforces&logoColor=FFB000"/></a>
+<a href="https://www.codechef.com/users/sasaurabh11"><img src="https://img.shields.io/badge/CodeChef-12100D?style=flat-square&logo=codechef&logoColor=FFB000"/></a>
+
+</div>
+
+<br/>
+
+## `~$ top -u sasaurabh11`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sasaurabh11&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0D0B&title_color=FFB000&text_color=F0E2CC&icon_color=FF7A18&ring_color=FFB000" alt="GitHub stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=sasaurabh11&layout=compact&langs_count=8&hide_border=true&bg_color=0F0D0B&title_color=FFB000&text_color=F0E2CC" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=sasaurabh11&hide_border=true&background=0F0D0B&stroke=2A211A&ring=FFB000&fire=FF7A18&currStreakLabel=FFB000&currStreakNum=F0E2CC&sideLabels=F0E2CC&sideNums=F0E2CC&dates=8A7A66" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasaurabh11&bg_color=0F0D0B&color=FFB000&line=FF7A18&point=FFC94A&area=true&area_color=FF7A18&hide_border=true&custom_title=commit%20telemetry" alt="Contribution graph" width="98%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/sasaurabh11/sasaurabh11/output/snake.svg" alt="Contribution snake" width="98%"/>
+
+</div>
+
+<br/>
+
+## `~$ ping saurabh`
+
+<div align="center">
+
+<a href="mailto:sesaurabh8052@gmail.com"><img src="https://img.shields.io/badge/Email-FFB000?style=for-the-badge&logo=gmail&logoColor=0F0D0B"/></a>
+<a href="https://linkedin.com/in/11-saurabh-jaiswar"><img src="https://img.shields.io/badge/LinkedIn-FF7A18?style=for-the-badge&logo=linkedin&logoColor=0F0D0B"/></a>
+<a href="https://saurabh-jaiswar.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FFC94A?style=for-the-badge&logo=vercel&logoColor=0F0D0B"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sasaurabh11&color=FFB000&style=flat-square&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<code>~$ exit</code> — <i>thanks for scrolling. build something that surprises you.</i>
+
+</div>

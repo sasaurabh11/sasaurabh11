@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 560" width="440" height="560" role="img" aria-label="Saurabh Jaiswar profile card">
+  <title>whoami — Saurabh Jaiswar</title>
+
+  <defs>
+    <linearGradient id="sweep" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFB000" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFB000" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#FFB000" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFB000" opacity="0.05"/>
+    </pattern>
+    <clipPath id="shell">
+      <rect x="8" y="8" width="424" height="544" rx="14"/>
+    </clipPath>
+    <linearGradient id="hexG" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFC94A"/>
+      <stop offset="100%" stop-color="#FF7A18"/>
+    </linearGradient>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <style>
+    .mono { font-family: "JetBrains Mono","IBM Plex Mono","SFMono-Regular",Consolas,monospace; }
+    .amber{ fill:#FFB000; } .ember{ fill:#FF7A18; } .bone{ fill:#F0E2CC; } .dim{ fill:#8A7A66; }
+    @keyframes sweepy { 0% { transform: translateY(-140px); } 100% { transform: translateY(560px); } }
+    @keyframes blink  { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+    @keyframes spin   { to { transform: rotate(360deg); } }
+    @keyframes rowin  { from { opacity:0; transform: translateX(-8px); } to { opacity:1; transform: translateX(0); } }
+    @keyframes ping   { 0%,100% { opacity:1; } 50% { opacity:.25; } }
+    .sw { animation: sweepy 5.5s linear infinite; }
+    .cursor { animation: blink 1.1s steps(1) infinite; }
+    .hexring { animation: spin 18s linear infinite; transform-origin: 220px 116px; }
+    .r1{animation:rowin .45s ease-out .30s both} .r2{animation:rowin .45s ease-out .42s both}
+    .r3{animation:rowin .45s ease-out .54s both} .r4{animation:rowin .45s ease-out .66s both}
+    .r5{animation:rowin .45s ease-out .78s both} .r6{animation:rowin .45s ease-out .90s both}
+    .live { animation: ping 2s ease-in-out infinite; }
+    @media (prefers-reduced-motion: reduce){ .sw,.cursor,.hexring,.r1,.r2,.r3,.r4,.r5,.r6,.live{animation:none} .sw{opacity:0} }
+  </style>
+
+  <g clip-path="url(#shell)">
+    <rect x="8" y="8" width="424" height="544" fill="#0F0D0B"/>
+    <rect x="8" y="8" width="424" height="544" fill="url(#scan)"/>
+    <rect class="sw" x="8" y="0" width="424" height="140" fill="url(#sweep)"/>
+
+    <!-- title bar -->
+    <rect x="8" y="8" width="424" height="34" fill="#17130F"/>
+    <line x1="8" y1="42" x2="432" y2="42" stroke="#2A211A" stroke-width="1.5"/>
+    <circle cx="30" cy="25" r="5" fill="#FF7A18"/>
+    <circle cx="48" cy="25" r="5" fill="#FFB000"/>
+    <circle cx="66" cy="25" r="5" fill="#3F352B"/>
+    <text x="220" y="29" class="mono dim" font-size="11" text-anchor="middle">whoami.sh</text>
+
+    <!-- monogram -->
+    <g class="hexring">
+      <circle cx="220" cy="116" r="50" fill="none" stroke="#FFB000" stroke-opacity=".28" stroke-width="1" stroke-dasharray="3 8"/>
+    </g>
+    <circle cx="220" cy="116" r="42" fill="#FF7A18" opacity=".14" filter="url(#glow2)"/>
+    <path d="M220 76 L254 96 L254 136 L220 156 L186 136 L186 96 Z" fill="#17130F" stroke="url(#hexG)" stroke-width="2"/>
+    <text x="220" y="125" class="mono" font-size="26" font-weight="700" text-anchor="middle" fill="url(#hexG)">SJ</text>
+
+    <text x="220" y="196" class="mono bone" font-size="17" font-weight="700" letter-spacing="2" text-anchor="middle">SAURABH JAISWAR</text>
+    <text x="220" y="216" class="mono ember" font-size="10.5" letter-spacing="2" text-anchor="middle">SDE 1</text>
+
+    <line x1="40" y1="244" x2="400" y2="244" stroke="#2A211A" stroke-width="1.5"/>
+
+    <g class="mono" font-size="11.5">
+      <g class="r1"><text x="40" y="278" class="dim">locale</text><text x="150" y="278" class="bone">India</text></g>
+      <g class="r2"><text x="40" y="308" class="dim">studies</text><text x="150" y="308" class="bone">B.Tech CSE, IIIT Vadodara</text><text x="150" y="324" class="dim">class of 2026</text></g>
+      <g class="r3"><text x="40" y="354" class="dim">building</text><text x="150" y="354" class="bone">multi-agent systems,</text><text x="150" y="370" class="bone">RAG pipelines, web apps</text></g>
+      <g class="r4"><text x="40" y="400" class="dim">solved</text><text x="150" y="400" class="amber">3500+ problems</text></g>
+      <g class="r5"><text x="40" y="430" class="dim">peak</text><text x="150" y="430" class="amber">2160 LeetCode · 1645 CF</text></g>
+      <g class="r6"><text x="40" y="460" class="dim">reach</text><text x="150" y="460" class="bone">sesaurabh8052@gmail.com</text></g>
+    </g>
+
+    <line x1="40" y1="488" x2="400" y2="488" stroke="#2A211A" stroke-width="1.5"/>
+    <g class="mono" font-size="11.5">
+      <circle class="live" cx="46" cy="516" r="4" fill="#FFB000"/>
+      <text x="60" y="520" class="amber">open to interesting problems</text>
+      <text x="40" y="542" class="dim">~$ <tspan class="cursor amber">▮</tspan></text>
+    </g>
+
+    <rect x="8" y="8" width="424" height="544" rx="14" fill="none" stroke="#2A211A" stroke-width="2"/>
+  </g>
+</svg>

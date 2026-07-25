@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" width="900" height="300" role="img" aria-label="Competitive programming ratings">
+  <title>Competitive programming ratings</title>
+
+  <defs>
+    <linearGradient id="barG" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FF7A18"/>
+      <stop offset="100%" stop-color="#FFC94A"/>
+    </linearGradient>
+    <pattern id="grid2" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#221B15" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .mono { font-family: "JetBrains Mono","IBM Plex Mono","SFMono-Regular",Consolas,monospace; }
+    .amber{ fill:#FFB000; } .ember{ fill:#FF7A18; } .bone{ fill:#F0E2CC; } .dim{ fill:#8A7A66; }
+    @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+    @keyframes fade { from { opacity:0; } to { opacity:1; } }
+    @keyframes tick { 0%,100% { opacity:.9; } 50% { opacity:.35; } }
+    .bar { transform-box: fill-box; transform-origin: left center; animation: grow 1.3s cubic-bezier(.2,.8,.2,1) both; }
+    .b1{animation-delay:.15s} .b2{animation-delay:.35s} .b3{animation-delay:.55s}
+    .f1{animation:fade .5s ease-out .5s both} .f2{animation:fade .5s ease-out .7s both} .f3{animation:fade .5s ease-out .9s both}
+    .head{animation:tick 2.4s ease-in-out infinite}
+    @media (prefers-reduced-motion: reduce){ .bar,.f1,.f2,.f3,.head{animation:none} .bar{transform:none} }
+  </style>
+
+  <rect width="900" height="300" rx="14" fill="#0F0D0B"/>
+  <rect width="900" height="300" rx="14" fill="url(#grid2)" opacity=".6"/>
+  <rect x="1" y="1" width="898" height="298" rx="14" fill="none" stroke="#2A211A" stroke-width="2"/>
+
+  <text x="36" y="44" class="mono" font-size="13">
+    <tspan class="dim">~$ </tspan><tspan class="bone">./ranks --all</tspan><tspan class="ember head"> ▮</tspan>
+  </text>
+  <line x1="36" y1="62" x2="864" y2="62" stroke="#2A211A" stroke-width="1.5"/>
+
+  <!-- LeetCode 2160 / 2500 = 86% of 470 = 404 -->
+  <g>
+    <text x="36" y="108" class="mono bone" font-size="14" font-weight="600">LeetCode</text>
+    <text x="36" y="126" class="mono dim" font-size="10">Guardian · top 1%</text>
+    <text x="196" y="118" class="mono amber" font-size="27" font-weight="700">2160</text>
+    <rect x="316" y="104" width="470" height="12" rx="6" fill="#1B1611"/>
+    <rect class="bar b1" x="316" y="104" width="404" height="12" rx="6" fill="url(#barG)"/>
+    <text x="800" y="114" class="mono f1 dim" font-size="10.5">8000 / 789k</text>
+    <text x="316" y="136" class="mono f1 dim" font-size="10">1400+ problems</text>
+  </g>
+
+  <!-- CodeChef 1804 -> 72% of 470 = 338 -->
+  <g>
+    <text x="36" y="184" class="mono bone" font-size="14" font-weight="600">CodeChef</text>
+    <text x="36" y="202" class="mono dim" font-size="10">4-star</text>
+    <text x="196" y="194" class="mono amber" font-size="27" font-weight="700">1804</text>
+    <rect x="316" y="180" width="470" height="12" rx="6" fill="#1B1611"/>
+    <rect class="bar b2" x="316" y="180" width="338" height="12" rx="6" fill="url(#barG)"/>
+    <text x="800" y="190" class="mono f2 dim" font-size="10.5">4938 / 530k</text>
+    <text x="316" y="212" class="mono f2 dim" font-size="10">peak contest rank 80 / 5000+</text>
+  </g>
+
+  <!-- Codeforces 1645 -> 66% of 470 = 310 -->
+  <g>
+    <text x="36" y="260" class="mono bone" font-size="14" font-weight="600">Codeforces</text>
+    <text x="36" y="278" class="mono dim" font-size="10">Expert</text>
+    <text x="196" y="270" class="mono amber" font-size="27" font-weight="700">1645</text>
+    <rect x="316" y="256" width="470" height="12" rx="6" fill="#1B1611"/>
+    <rect class="bar b3" x="316" y="256" width="310" height="12" rx="6" fill="url(#barG)"/>
+    <text x="800" y="266" class="mono f3 dim" font-size="10.5">9772 / 350k</text>
+    <text x="316" y="288" class="mono f3 dim" font-size="10">best round rank 209 / 32000+</text>
+  </g>
+</svg>
